@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2de64afe6d9e68c2",
+        "id": "3958a34cc95305ef",
         "type": "tabs",
         "children": [
           {
-            "id": "65ce705abd9938ea",
+            "id": "73a308580c9f3ddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8ede6aae1e5785d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datasets/Dataset list.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datasets/Dataset list.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datasets/Dataset list.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datasets/Dataset list.md"
+                "file": "Home.md"
               }
             }
           },
@@ -179,8 +166,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d8ede6aae1e5785d",
+  "active": "73a308580c9f3ddc",
   "lastOpenFiles": [
+    "Home.md",
     "README.md",
     "Datasets/Dataset list.md",
     "Datasets"
